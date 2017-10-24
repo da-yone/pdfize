@@ -12,5 +12,5 @@ $PKG_CONFIG_PATH=/usr/local/Cellar/imagemagick@6/6.9.8-3/lib/pkgconfig bundle in
 
 ### Usage
 ```
-$bundle exec pdfize path/to/src/dir [filename]
+$bundle exec ruby pdfize path/to/src/dir [filename]
 ```
